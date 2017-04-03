@@ -1,4 +1,5 @@
-# SketchReco_Crossword
+
+# CrosswordPuzzleV2
 
 ## Compiling and Running
 * This is an eclipse project. To compile and run just open it in the latest version of the eclipse. 
@@ -11,5 +12,4 @@
 * As soon you draw the letter, neural network will immediately recognize it. 
 * Current UI has been inspired from last year Soduko project and  has been modified according to Crosword rules.
   However the grid based input and way to capture the input has been kept same.
-
 
